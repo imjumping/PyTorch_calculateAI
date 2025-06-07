@@ -31,3 +31,5 @@ pip install torch numpy
 
 ##说明
 已经训练好了模型，所以可以直接使用，无需训练，若需要训练，请前往train.py文件训练。
+
+我首先开源到gitee,在https://gitee.com/imjumpinghouge/calculate-ai
